@@ -1,2 +1,2 @@
 scikit-learn
-mlflow
+mlflow==2.5.0
